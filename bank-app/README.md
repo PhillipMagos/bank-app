@@ -39,7 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 npx create-next-app@latest ./ --typescript --tailwind --eslint
 
 Tutorial:
-https://www.youtube.com/watch?v=PuOVqP_cjkE&t=213s
+https://www.youtube.com/watch?v=PuOVqP_cjkE&t=213
+Resume at 25 minute mark
 
 Stack
 React
